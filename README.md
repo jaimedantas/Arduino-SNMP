@@ -3,7 +3,7 @@ The SNMP Device is an embedded hardware architecture capable of monitoring and c
 ##Design
 ![](https://github.com/jaimedantas/Arduino-SNMP/blob/master/images/design.png)
 ##Device Created
-![](https://github.com/jaimedantas/Arduino-SNMP/blob/master/images/real_2.png)
+![](https://github.com/jaimedantas/DC_Control/blob/master/images_wiki/equipamento_prqueno.png)
 ##Temperature Sensor
 ![](https://github.com/jaimedantas/Arduino-SNMP/blob/master/images/temp_sensor.png)
 
